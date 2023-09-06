@@ -1,0 +1,36 @@
+.bk {
+    border: 2px solid transparent;
+    background-image:url( "v.png");
+    
+    background-size: cover;
+    width: 99.6%;
+    font-size: large;
+    font: bolder;
+    color: black;
+    height: 91vh;
+  
+
+}
+ ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    /* text-decoration-color: black; */
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
+    text-decoration:none ;
+}   
+
+.my {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+
+}
+my:hover{
+    border: 2px solid white;
+    border-radius: 2px ;
+   font-weight: 10px;
+
+}
